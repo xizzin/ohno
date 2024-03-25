@@ -1,0 +1,58 @@
+/*1.1*/
+
+.containerMain{
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.podconatiner{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+
+.podcontainer2{
+    
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 10px;
+}
+
+.borders2{
+    width: 500px;
+    height: 500px;
+    margin-top: 0px;
+    border: 5px solid #060606;
+
+}
+
+.borders1{
+    width: 500px;
+    height: 240px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    border: 5px solid #060606;
+}
+
+.borders3{
+    width: 500px;
+    height: 240px;
+    margin-top: 0px;
+    border: 5px solid #060606;
+}
+
+.text{
+    text-align: center;
+    line-height: 220px;
+    font-size: 50px;
+    font-weight: 1500px;
+}
+
+.text-1{
+    line-height: 500px;
+}
+
